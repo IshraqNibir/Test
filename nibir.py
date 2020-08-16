@@ -7,3 +7,4 @@ def nw():
 
 fun()
 nw()
+print('nahin')
