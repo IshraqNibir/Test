@@ -8,3 +8,4 @@ def nw():
 fun()
 nw()
 print('nahin')
+print('Do give up')
